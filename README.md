@@ -7,7 +7,7 @@
 | Day | Topic | Mock Test Score | Status |
 |-----|-------|----------------|--------|
 | Day 1 | AI vs ML vs Deep Learning | 50% | ✅ Done |
-| Day 2 | | | ⏳ |
+| Day 2 | |numpy basics | 81% |✅ Done 
 | Day 3 | | | ⏳ |
 | Day 4 | | 
 | Day 5 | | 
