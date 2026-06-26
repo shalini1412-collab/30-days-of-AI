@@ -8,7 +8,7 @@
 |-----|-------|----------------|--------|
 | Day 1 | AI vs ML vs Deep Learning | 50% | ✅ Done |
 | Day 2 |numpy basics | 81% | ✅ Done| 
-| Day 3 | | | ⏳ |
+| Day 3 |pandas basics |64% |  ✅ Done |
 | Day 4 | | 
 | Day 5 | | 
 | Day 6 | | 
