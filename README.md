@@ -9,8 +9,8 @@
 | Day 1 | AI vs ML vs Deep Learning | 50% | ✅ Done |
 | Day 2 |numpy basics | 81% | ✅ Done| 
 | Day 3 |pandas basics |64% |  ✅ Done |
-| Day 4 | | 
-| Day 5 | | 
+| Day 4 |Matplotlib basics | 90%|✅ Done |
+| Day 5 |linear algebra |77%| ✅ Done |
 | Day 6 | | 
 | Day 7 | | 
 | Day 8 | | 
