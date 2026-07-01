@@ -11,7 +11,7 @@
 | Day 3 |pandas basics |64% |  ✅ Done |
 | Day 4 |Matplotlib basics | 90%|✅ Done |
 | Day 5 |linear algebra |77%| ✅ Done |
-| Day 6 | | 
+| Day 6 |Mean,Standard deviation,Probability |79% | ✅ Done | 
 | Day 7 | | 
 | Day 8 | | 
 | Day 9 | |
