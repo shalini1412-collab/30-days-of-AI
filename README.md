@@ -12,8 +12,8 @@
 | Day 4 |Matplotlib basics | 90%|✅ Done |
 | Day 5 |linear algebra |77%| ✅ Done |
 | Day 6 |Mean,Standard deviation,Probability|79% | ✅ Done | 
-| Day 7 | | 
-| Day 8 | | 
+| Day 7 |First mini project on titanic dataset |73%| ✅ Done | 
+| Day 8 |linear regression |79%| ✅ Done | 
 | Day 9 | |
 | Day 10 | | 
 | Day 11 | | 
