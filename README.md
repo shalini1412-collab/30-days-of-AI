@@ -15,7 +15,7 @@
 | Day 7 |First mini project on titanic dataset |73%| ✅ Done | 
 | Day 8 |linear regression |79%| ✅ Done | 
 | Day 9 |logistic regression|70%| ✅ Done |
-| Day 10 | | 
+| Day 10 |Decision tree | 69%| ✅ Done |
 | Day 11 | | 
 | Day 12 | | 
 | Day 13 | | 
