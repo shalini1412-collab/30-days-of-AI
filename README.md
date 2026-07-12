@@ -17,7 +17,7 @@
 | Day 9 |logistic regression|70%| ✅ Done |
 | Day 10 |Decision tree | 69%| ✅ Done |
 | Day 11 |Model evaluation |86%| ✅ Done | 
-| Day 12 | | 
+| Day 12 |K means algorithm|70%| ✅ Done | 
 | Day 13 | | 
 | Day 14 | | 
 | Day 15 | | 
